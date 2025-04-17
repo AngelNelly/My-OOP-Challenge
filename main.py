@@ -1,6 +1,6 @@
 from pet import Pet
 
-# I named my Pet NellysPet!
+# I name my Pet NellysPet!
 nellys_pet = Pet("NellysPet")
 
 # Playing with NellysPet!
@@ -10,7 +10,7 @@ nellys_pet.sleep()
 nellys_pet.play()
 nellys_pet.get_status()
 
-# BONUS: Teach some tricks!
+# I taught my pet some tricks!
 nellys_pet.train("roll over, play dead")
 nellys_pet.show_tricks()
 nellys_pet.get_status()
